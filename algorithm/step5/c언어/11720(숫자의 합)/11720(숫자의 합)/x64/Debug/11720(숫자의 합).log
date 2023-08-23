@@ -1,0 +1,4 @@
+﻿  FileName.c
+C:\Users\mraen\OneDrive\바탕 화면\백준\algorithm\step5\c언어\11720(숫자의 합)\11720(숫자의 합)\FileName.c(10,11): error C2057: 상수 식이 필요합니다.
+C:\Users\mraen\OneDrive\바탕 화면\백준\algorithm\step5\c언어\11720(숫자의 합)\11720(숫자의 합)\FileName.c(10,12): error C2466: 상수 크기 0의 배열을 할당할 수 없습니다.
+C:\Users\mraen\OneDrive\바탕 화면\백준\algorithm\step5\c언어\11720(숫자의 합)\11720(숫자의 합)\FileName.c(10,7): error C2133: 'num': 알 수 없는 크기입니다.

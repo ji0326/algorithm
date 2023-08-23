@@ -1,0 +1,3 @@
+﻿  FileName.c
+C:\Users\mraen\OneDrive\바탕 화면\백준\algorithm\step5\c언어\2675(문자열 반복)\2675(문자열 반복)\FileName.c(23,13): warning C4013: 'strlen'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  2675(문자열 반복).vcxproj -> C:\Users\mraen\OneDrive\바탕 화면\백준\algorithm\step5\c언어\2675(문자열 반복)\x64\Debug\2675(문자열 반복).exe

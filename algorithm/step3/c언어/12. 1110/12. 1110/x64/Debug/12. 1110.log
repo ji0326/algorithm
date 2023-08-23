@@ -1,0 +1,4 @@
+﻿  소스.c
+C:\Users\mraen\Desktop\23 백준\step3\c언어\12. 1110\12. 1110\소스.c(4,29): warning C4101: 'b' :참조되지 않은 지역 변수입니다.
+C:\Users\mraen\Desktop\23 백준\step3\c언어\12. 1110\12. 1110\소스.c(4,32): warning C4101: 'c' :참조되지 않은 지역 변수입니다.
+  12. 1110.vcxproj -> C:\Users\mraen\Desktop\23 백준\step3\c언어\12. 1110\x64\Debug\12. 1110.exe

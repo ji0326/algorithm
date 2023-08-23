@@ -1,0 +1,4 @@
+﻿  소스.c
+C:\Users\mraen\Desktop\23 백준\step4\c언어\7. 1546\7. 1546\소스.c(14,18): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\mraen\Desktop\23 백준\step4\c언어\7. 1546\7. 1546\소스.c(17,15): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  7. 1546.vcxproj -> C:\Users\mraen\Desktop\23 백준\step4\c언어\7. 1546\x64\Debug\7. 1546.exe

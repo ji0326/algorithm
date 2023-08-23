@@ -1,0 +1,3 @@
+﻿  FileName.c
+C:\Users\mraen\OneDrive\바탕 화면\백준\algorithm\step5\c언어\2908(상수)\2908(상수)\FileName.c(14,7): warning C4101: 'tmp' :참조되지 않은 지역 변수입니다.
+  2908(상수).vcxproj -> C:\Users\mraen\OneDrive\바탕 화면\백준\algorithm\step5\c언어\2908(상수)\x64\Debug\2908(상수).exe
