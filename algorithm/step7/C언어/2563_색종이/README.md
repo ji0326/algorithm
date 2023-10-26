@@ -1,0 +1,1 @@
+<img src="https://upload.acmicpc.net/6000c956-1b07-4913-83c3-72eda18fa1d1/-/preview/" />
